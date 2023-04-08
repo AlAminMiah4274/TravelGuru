@@ -1,0 +1,9 @@
+.logo img {
+    position: absolute;
+    width: 120.26px;
+    height: 56px;
+    left: 135px;
+    top: 35px;
+    filter: invert(100%);
+    -webkit-filter: invert(100%);
+}

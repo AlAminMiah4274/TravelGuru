@@ -1,16 +1,10 @@
 import './App.css';
+import Home from './components/Homes/Home';
 
 function App() {
   return (
-    <div style={{
-      backgroundImage: `url("/Img/Rectangle 1.png")`,
-      backgroundRepeat: 'no-repeat',
-      height: '100vh',
-      filter: 'blur(3px)',
-      WebkitFilter: 'blur(3px)',
-
-    }}>
-      Al Amin Miah
+    <div>
+      <Home></Home>
     </div>
   );
 }
