@@ -1,5 +1,6 @@
 import React from 'react';
 import Header from '../Header/Header';
+import './Home.css';
 
 const Home = () => {
     return (
@@ -8,7 +9,7 @@ const Home = () => {
             backgroundRepeat: 'no-repeat',
             backgroundSize: 'cover',
             height: '100vh',
-            marginTop: '-20px'
+            // marginTop: '-15px'
         }}>
             <div>
                 <Header></Header>
