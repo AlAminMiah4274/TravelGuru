@@ -10,7 +10,12 @@ const Home = () => {
             height: '100vh',
             marginTop: '-20px'
         }}>
-            <Header></Header>
+            <div>
+                <Header></Header>
+            </div>
+            <div>
+
+            </div>
         </div>
     );
 };
